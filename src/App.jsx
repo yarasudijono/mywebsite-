@@ -1,35 +1,32 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import goodtimes1 from "./films/good times/goodtimestill1.png"
+import NavBar from './navbar'
+import Home from "./pages/MainHome"
+import Projects from "./pages/Projects"
+import Movies from './pages/Movies'
+import { Routes, Route, HashRouter } from "react-router-dom";
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <HashRouter>
+      <div id = "div">
+        <NavBar></NavBar>
+        <Routes>
+          <Route path="/" element={<Home />} /> 
+          <Route path="/Home" element={<Home />} />
+          <Route path="/Projects" element={<Projects />} />
+          <Route path="/Movies" element={<Movies />} />
+        </Routes>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+    </HashRouter>
+
+
     </>
   )
 }
 
-export default App
+export default App; 
