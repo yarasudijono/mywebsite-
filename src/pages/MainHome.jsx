@@ -1,4 +1,3 @@
-import goodtimes1 from "../films/good times/goodtimestill1.png"
 import './MainHome.css'
 import lazycat from "../events/Lazy Cat.png"
 import lazycat2 from "../events/Lazy Cat2.png"

@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import goodtimes1 from "./films/good times/goodtimestill1.png"
 import NavBar from './navbar'
 import Home from "./pages/MainHome"
 import Projects from "./pages/Projects"

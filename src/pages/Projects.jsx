@@ -1,18 +1,7 @@
 import './Projects.css'
 import as11 from "../events/AS11 Medium.png"
-import as12 from "../events/AS12 Medium.png"
-import as13 from "../events/AS13 Medium.png"
 import as2 from "../events/AS2.png"
 import as3 from "../events/AS32 Medium.png"
-import gt1 from "../films/good times/gt1.png"
-import gt2 from "../films/good times/gt2.png"
-import gt3 from "../films/good times/gt3.png"
-import ltdesign1 from "../films/LT/LT PROD DES 1.png"
-import ltdesign2 from "../films/LT/LT PROD DES 2.png"
-import ltstill from "../films/LT/LT STILL1.png"
-import stlfstoryboard from "../films/something to look for/STLF SB2.png"
-import stlfstill1 from "../films/something to look for/stlfstill1.png"
-import stlfstill2 from "../films/something to look for/stlfstill2.png"
 
 function Projects(){
     return(

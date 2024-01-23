@@ -1,9 +1,4 @@
 import './Movies.css'
-import as11 from "../events/AS11 Medium.png"
-import as12 from "../events/AS12 Medium.png"
-import as13 from "../events/AS13 Medium.png"
-import as2 from "../events/AS2.png"
-import as3 from "../events/AS32 Medium.png"
 import gt1 from "../films/good times/gt1.png"
 import gt2 from "../films/good times/gt2.png"
 import gt3 from "../films/good times/gt3.png"
