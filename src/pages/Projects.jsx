@@ -9,7 +9,7 @@ function Projects(){
         <div id = "maincontainer">
          <div>
             <h1 id = "events">your clothes: apparel swap</h1>
-            <p id="ycinfo">taken from the saying, “one man’s trash is another man’s treasure,” apparel swap invites participants of all ages within Greater Jakarta to prolong the lives of their second-hand clothes by presenting them to other interested participants.</p>
+            <p id="ycinfo">taken from the saying, “one man’s trash is another man’s treasure,” apparel swap invites participants of all ages within greater jakarta to prolong the lives of their second-hand clothes by presenting them to other interested participants.</p>
         </div>
 
         <div class="flexbox-container1">
@@ -33,7 +33,7 @@ function Projects(){
         <div class="flexbox-container3">
             <div>
             <p id = "as3">apparel swap 3.0</p>
-            <p id="as3desc1">june 24th-25th, 12-5pm</p>
+            <p id="as3desc1">june 24th-25th, 2023, 12-5pm</p>
             <p id="as3desc2">100+ swappers</p>
             </div>
             <img src={as3} alt="as3" id = "swap3" />

@@ -16,7 +16,8 @@ function Movies(){
         
         <div>
             <p id = "gt">good times</p>
-            <p id = "gtintro">short film, 2022; assistant director</p>
+            <p id = "gtintro">short film, 2023; assistant director</p>
+            <p id = "gtplot">a study of “simpler” moments in our pasts and how they reverberate through our memory in elusive and disconnected ways. </p>
         </div>
         
         <div class="flexbox-container4">
@@ -39,6 +40,7 @@ function Movies(){
         <div>
             <p id = "stlf">something to look for</p>
             <p id = "stlfintro">short film, 2023; storyboard artist, script supervisor</p>
+            <p id="stlfplot">rani wants to go back in time to convince her boyfriend evan to stay instead of breaking up as he is going to japan for a job.</p>
         </div>
 
         <div class="flexbox-container6">

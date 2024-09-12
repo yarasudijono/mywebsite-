@@ -41,6 +41,13 @@
   #gtintro{
     font-family: opensaucesans;
     font-size:medium;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+  
+  #gtplot{
+    font-family: opensaucesans;
+    font-size:medium;
     font-weight: regular;
     color:rgb(18, 78, 36)
   }
@@ -55,21 +62,28 @@
   #ltintro{
     font-family: opensaucesans;
     font-size:medium;
-    font-weight: regular;
+    font-weight: bold;
     color:rgb(18, 78, 36)
   }
 
   #stlf{
     font-family: opensaucesans;
-    font-size:35px;
+    font-size:30px;
     font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #stlfplot{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: regular;
     color:rgb(18, 78, 36)
   }
 
   #stlfintro{
     font-family: opensaucesans;
     font-size:medium;
-    font-weight: regular;
+    font-weight: bold;
     color:rgb(18, 78, 36)
   }
 
