@@ -87,6 +87,48 @@
     color:rgb(18, 78, 36)
   }
 
+  #vmj{
+    font-family: opensaucesans;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(18, 78, 36)
+  }
+
+  #vmjplot{
+    font-family: opensaucesans;
+    font-size: medium;
+    font-weight: regular;
+    color: rgb(18,78,36)
+  }
+
+  #vmjintro{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: bold;
+    color: rgb(18,78,36)
+  }
+
+  #lb{
+    font-family: opensaucesans;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(18,78,36)
+  }
+
+  #lbplot{
+    font-family: opensaucesans;
+    font-size: medium;
+    font-weight: regular;
+    color: rgb(18,78,36)
+  }
+
+  #lbintro{
+    font-family: opensaucesans;
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(18,78,36)
+  }
+
   #as1{
     font-family: opensaucesans;
     font-size:30px;
@@ -245,4 +287,32 @@
     margin: 0 15px;
     width: 400px;
   
+  }
+
+  .flexbox-container7 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+
+  .flexbox-container7 img{
+    margin: 0 15px;
+    width: 400px;
+  }
+
+  .flexbox-container8 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+
+  .flexbox-container8 img{
+    margin: 0 15px;
+    width: 400px; 
   }
