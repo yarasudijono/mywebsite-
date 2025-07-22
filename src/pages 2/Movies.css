@@ -1,0 +1,318 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 7rem;
+    text-align: center;
+  }
+  
+  body {
+    background-color: rgb(255, 248, 239);
+  }
+  
+  #events{
+    font-family: opensaucesans;
+    font-size: 40px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+#ycinfo{
+  font-family: opensaucesans;
+  font-size: medium;
+  font-weight: bold;
+  color:rgb(18, 78, 36);
+  padding-bottom: 50px;
+}
+
+  #films{
+    font-family: opensaucesans;
+    font-size: 40px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #gt{
+    font-family: opensaucesans;
+    font-size:30px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #gtintro{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+  
+  #gtplot{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: regular;
+    color:rgb(18, 78, 36)
+  }
+
+  #lt{
+    font-family: opensaucesans;
+    font-size:30px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #ltintro{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #stlf{
+    font-family: opensaucesans;
+    font-size:30px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #stlfplot{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: regular;
+    color:rgb(18, 78, 36)
+  }
+
+  #stlfintro{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #vmj{
+    font-family: opensaucesans;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(18, 78, 36)
+  }
+
+  #vmjplot{
+    font-family: opensaucesans;
+    font-size: medium;
+    font-weight: regular;
+    color: rgb(18,78,36)
+  }
+
+  #vmjintro{
+    font-family: opensaucesans;
+    font-size:medium;
+    font-weight: bold;
+    color: rgb(18,78,36)
+  }
+
+  #lb{
+    font-family: opensaucesans;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(18,78,36)
+  }
+
+  #lbplot{
+    font-family: opensaucesans;
+    font-size: medium;
+    font-weight: regular;
+    color: rgb(18,78,36)
+  }
+
+  #lbintro{
+    font-family: opensaucesans;
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(18,78,36)
+  }
+
+  #as1{
+    font-family: opensaucesans;
+    font-size:30px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #as1desc1{
+    font-size: medium;
+    color:rgb(18, 78, 36);
+  }
+  
+  #as1desc2{
+    font-size: medium;
+    color:rgb(18, 78, 36);
+  }
+
+.flexbox-container1 {
+  margin: auto;
+  width: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-bottom: 50px;
+}
+
+.flexbox-container1 p {
+  text-align: left;
+  flex-basis: 100%;
+}
+
+.flexbox-container1 img{
+  margin: 0 15px;
+  width: 400px;
+
+}
+
+#maincontainer{
+  margin-top: 110px;
+}
+
+  #as2{
+    font-family: opensaucesans;
+    font-size:30px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+  #as2desc1{
+    font-size: medium;
+    color:rgb(18, 78, 36);
+  }
+  
+  #as2desc2{
+    font-size: medium;
+    color:rgb(18, 78, 36);
+  }
+
+  .flexbox-container2 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+  
+  .flexbox-container2 p {
+    text-align: left;
+    flex-basis: 100%;
+  }
+  
+  .flexbox-container2 img{
+    margin: 0 15px;
+    width: 400px;
+  
+  }
+
+  #as3{
+    font-family: opensaucesans;
+    font-size:30px;
+    font-weight: bold;
+    color:rgb(18, 78, 36)
+  }
+
+#as3desc1{
+  font-size: medium;
+  color:rgb(18, 78, 36);
+}
+
+#as3desc2{
+  font-size: medium;
+  color:rgb(18, 78, 36);
+}
+
+  .flexbox-container3 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+  
+  .flexbox-container3 p {
+    text-align: left;
+    flex-basis: 100%;
+  }
+  
+  .flexbox-container3 img{
+    margin: 0 15px;
+    width: 400px;
+  
+  }
+
+  .flexbox-container4 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+
+  .flexbox-container4 img{
+    margin: 0 15px;
+    width: 400px;
+  
+  }
+
+  .flexbox-container5 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+
+  .flexbox-container5 img{
+    margin: 0 15px;
+    width: 400px;
+  
+  }
+
+  .flexbox-container6 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+
+  .flexbox-container6 img{
+    margin: 0 15px;
+    width: 400px;
+  
+  }
+
+  .flexbox-container7 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+
+  .flexbox-container7 img{
+    margin: 0 15px;
+    width: 400px;
+  }
+
+  .flexbox-container8 {
+    margin: auto;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 50px;
+  }
+
+  .flexbox-container8 img{
+    margin: 0 15px;
+    width: 400px; 
+  }

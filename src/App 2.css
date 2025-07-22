@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(255, 248, 239);
+}
+
+@font-face {
+  font-family: opensaucesans;
+  src: url(../public/Open-Sauce-Sans/TTF/OpenSauceSans-Regular.ttf);
+  font-weight: regular;
+}
+
+@font-face {
+  font-family: opensaucesans;
+  src: url(../public/Open-Sauce-Sans/TTF/OpenSauceSans-Bold.ttf);
+  font-weight: bold;
+} 
+
+@font-face {
+  font-family: opensaucesans;
+  src: url(../public/Open-Sauce-Sans/TTF/OpenSauceSans-Italic.ttf);
+  font-weight: italic;
+} 
+
+body {
+  background-color: rgb(255, 248, 239);
+  width:100%;
+}
+
+#div {
+  width: 100%;
+  background-color: rgb(255, 248, 239);
+}
